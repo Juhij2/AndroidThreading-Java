@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HW05</string>
+    <string name="Generate">Generate</string>
+    <string name="Select_Complexity">Select Complexity</string>
+    <string name="No_Complexity">No Complexity</string>
+    <string name="Average">Average</string>
+    <string name="select_complexity">select complexity</string>
+    <string name="times">times</string>
+    <string name="generate">Generate</string>
+</resources>
